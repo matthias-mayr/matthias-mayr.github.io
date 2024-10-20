@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Matthias Mayr
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Matthias
@@ -11,7 +11,7 @@ last_name: Mayr
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🤖
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,56 +24,60 @@ role: Senior Robotics Software Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Freelancer
+  - name: RiACT
+    url: https://riact.ai/
+  - name: Lund University
+    url: https://lu.se
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:matthias.mayr@cs.lth.se'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/matthias-mayr
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/matthias-mayr/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.se/citations?hl=sv&user=AX3-L08AAAAJ
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
+  - Robotics
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Knowledge Representation
+  - Software-driven Robots
 
 education:
   - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Lund University
+    date_start: 2018-09-01
+    date_end: 2024-02-02
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      # fixme
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MSc Electrical Engineering & Information Technology
+    institution: Karlsruhe Institute of Technology (KIT)
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+    # summary: |
+    #   GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Electrical Engineering & Information Technology
+    institution: Karlsruhe Institute of Technology (KIT)
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -142,12 +146,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: German
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 90
+  - name: Swedish
+    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +187,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am interested to make robotic systems intelligent and efficient. Throughout my life I have touched many aspects of robotic systems from navigation, to controller development, reinforcement learning and task-level planning. I develop and maintain a wide variety of software repositories, all centered around robotics.
+
+I worked both in academia and industry, having worked for companies like Bosch or Siemens as well as for startups like RiACT. As an academic education I have PhD degree from Lund University, Sweden and an engineering education from Karlsruhe Institute of Technology (KIT) in Karlsruhe with a strong focus on robotics, system- and software engineering. 
+
+<!-- In my research, I combine high-level AI methods with machine-learning techniques such as reinforcement learning to enable efficient learning of robust and explainable policies. I enabled contact-rich manufacturing tasks with manipulators and that require compliant control. -->
