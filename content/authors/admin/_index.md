@@ -191,4 +191,5 @@ I am interested to make robotic systems intelligent and efficient. Throughout my
 
 I worked both in academia and industry, having worked for companies like Bosch or Siemens as well as for startups like RiACT. As an academic education I have PhD degree from Lund University, Sweden and an engineering education from Karlsruhe Institute of Technology (KIT) in Karlsruhe with a strong focus on robotics, system- and software engineering. 
 
+Contact me about interesting robotics projects, freelancing opportunities or collaborations.
 <!-- In my research, I combine high-level AI methods with machine-learning techniques such as reinforcement learning to enable efficient learning of robust and explainable policies. I enabled contact-rich manufacturing tasks with manipulators and that require compliant control. -->
