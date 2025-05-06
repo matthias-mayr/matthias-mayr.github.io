@@ -24,11 +24,7 @@ role: Senior Robotics Software Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Freelancer
-  - name: RiACT
-    url: https://riact.ai/
-  - name: Lund University
-    url: https://lu.se
+  - name: Mayr Robotics
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -187,9 +183,10 @@ awards:
 
 ## About Me
 
-I am interested to make robotic systems intelligent and efficient. Throughout my life I have touched many aspects of robotic systems from navigation, to controller development, reinforcement learning and task-level planning. I develop and maintain a wide variety of software repositories, all centered around robotics.
+I am interested in making robotic systems intelligent and efficient. Throughout my life I have touched many aspects of robotic systems from navigation, to controller development, reinforcement learning and task-level planning. I develop and maintain a wide variety of software repositories, all centered around robotics.
 
 I worked both in academia and industry, having worked for companies like Bosch or Siemens as well as for startups like RiACT. As an academic education I have PhD degree from Lund University, Sweden and an engineering education from Karlsruhe Institute of Technology (KIT) in Karlsruhe with a strong focus on robotics, system- and software engineering. 
 
-Contact me about interesting robotics projects, freelancing opportunities or collaborations.
+With my company I am bringing skill-based robotics to the European industries. I offer to combine modern robotics together with knowledge representation and efficient machine learning.
+Contact me for robotics projects, freelancing opportunities or collaborations.
 <!-- In my research, I combine high-level AI methods with machine-learning techniques such as reinforcement learning to enable efficient learning of robust and explainable policies. I enabled contact-rich manufacturing tasks with manipulators and that require compliant control. -->
